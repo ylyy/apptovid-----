@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "2026全球儿童陪伴": 2026全球儿童陪伴新趋势-解锁高质量亲子互动与成长秘诀.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
